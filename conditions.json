@@ -2558,7 +2558,7 @@
     "bloodInUrine": -10000,
     "frequentUrination": -10000,
     "weakUrineStream": -10000,
-    "poorBalance": "v",
+    "poorBalance": "-1000",
     "changesInSmell": -10000,
     "changesInSight": -10000,
     "changesInTaste": -10000,
