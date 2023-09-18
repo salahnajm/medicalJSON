@@ -389,7 +389,7 @@
    "crepitus": -10000,
    "arthritis": -10000,
    "erectileDysfunction": -10000,
-   "mainSymptom": "diarrhea"
+   "mainSymptom": "Diarrhea"
  },
  {
    "condition": "Acute Cholecystitis",
@@ -1271,7 +1271,7 @@
    "crepitus": -10000,
    "arthritis": -10000,
    "erectileDysfunction": -10000,
-   "mainSymptom": "vaginalDischarge"
+   "mainSymptom": "Vaginal Discharge"
  },
  {
    "condition": "Benign prostate enlargement",
@@ -2447,7 +2447,7 @@
    "crepitus": -10000,
    "arthritis": -10000,
    "erectileDysfunction": -10000,
-   "mainSymptom": "constipation"
+   "mainSymptom": ""
  },
  {
    "condition": "Crohn's disease",
@@ -3329,7 +3329,7 @@
    "crepitus": -10000,
    "arthritis": -10000,
    "erectileDysfunction": -10000,
-   "mainSymptom": "diarrhea"
+   "mainSymptom": "Diarrhea"
  },
  {
    "condition": "Discoid Eczema",
@@ -4112,8 +4112,8 @@
    "decreasedRangeOfMotion": -10000,
    "crepitus": -10000,
    "arthritis": -10000,
-   "erectileDysfunction": -10000,
-   "mainSymptom": "seizures"
+   "erectileDysfuncstion": -10000,
+   "mainSymptom": "Seizures"
  },
  {
    "condition": "Erectile dysfunction (impotence)",
@@ -4309,7 +4309,7 @@
    "crepitus": -10000,
    "arthritis": -10000,
    "erectileDysfunction": -10000,
-   "mainSymptom": "diarrhea"
+   "mainSymptom": "Diarrhea"
  },
  {
    "condition": "Febrile seizures",
@@ -4407,7 +4407,7 @@
    "crepitus": -10000,
    "arthritis": -10000,
    "erectileDysfunction": -10000,
-   "mainSymptom": "seizures"
+   "mainSymptom": "Seizures"
  },
  {
    "condition": "Globus - Feeling of something in your throat",
