@@ -31,7 +31,7 @@
     "soreThroat": 20,
     "painWithSwallowing": -10000,
     "bleedingGums": -10000,
-    "oralUlcers": "",
+    "oralUlcers": -10000,
     "chestPain": -100,
     "shortnessOfBreath": 80,
     "exerciseIntolerance": 40,
